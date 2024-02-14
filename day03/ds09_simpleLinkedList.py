@@ -142,6 +142,10 @@ if __name__ == '__main__':
     printNodes(head)
     print(f'찾은 노드 : {fNode.data}')
     
+
+
+
+    
     
 
 
