@@ -25,7 +25,7 @@
 
     - 큐:fist in first out(FIFO)
 
-    ![queue](https://github.com/leekminxx/ds-and-algorithm.1/blob/main/images/queue.png)
+    ![queue](https://github.com/leekminxx/ds-and-algorithm/blob/main/images/queue.png)
     - 트리
     - 그래프
     
