@@ -43,6 +43,7 @@
 ## 5일차 
  - 파이썬 자료구조/알고리즘
     - 그래프
+    ![그래프](https://raw.githubusercontent.com/som7199/ds-and-algorithm/main/images/Graph.png)
     
 
 
